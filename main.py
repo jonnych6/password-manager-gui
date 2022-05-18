@@ -84,6 +84,7 @@ def find_password():
             messagebox.showinfo(title="Error", message=f"No details for {website} exists.")
 
 
+
 # ---------------------------- UI SETUP ------------------------------- #
 window = Tk()
 window.title("Password Manager")
