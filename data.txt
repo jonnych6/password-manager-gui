@@ -1,0 +1,3 @@
+Amazon | example@gmail.com | 123
+Microsoft | example@gmail.com | 1234
+
